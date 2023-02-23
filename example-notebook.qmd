@@ -10,6 +10,9 @@ editor: visual
 ## testing testing
 
 
+## something
+
+#usethis::use_github_action("render-rmarkdown.yaml")
 
 ## Quarto
 
